@@ -17,6 +17,6 @@
 
 ![](https://github.com/sanqiit/spectacle/blob/master/Snipaste_2019-06-28_17-16-50.jpg)
 
-![](https://github.com/sanqiit/spectacle/blob/master/Snipaste_2019-06-28_17-17-56.jpg)
+
 
 
