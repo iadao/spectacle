@@ -11,7 +11,8 @@
 # 汉化成功
 > 菜单界面
 
-![](https://blog.45share.com/usr/uploads/2019/06/1069864505.png)
+
+
 > 设置界面
 
 ![](https://blog.45share.com/usr/uploads/2019/06/1602579940.png)
