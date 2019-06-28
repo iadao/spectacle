@@ -11,12 +11,12 @@
 # 汉化成功
 > 菜单界面
 
-
+![](https://github.com/sanqiit/spectacle/blob/master/Snipaste_2019-06-28_17-16-20.jpg)
 
 > 设置界面
 
-![](https://blog.45share.com/usr/uploads/2019/06/1602579940.png)
+![](https://github.com/sanqiit/spectacle/blob/master/Snipaste_2019-06-28_17-16-50.jpg)
 
-![](https://blog.45share.com/usr/uploads/2019/06/915428768.png)
+![](https://github.com/sanqiit/spectacle/blob/master/Snipaste_2019-06-28_17-17-56.jpg)
 
 
