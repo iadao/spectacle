@@ -6,7 +6,7 @@
 
 # 安装
 
-[汉化教程](blog.45share.com/ruanjian/44.html "安装教程")
+汉化教程 blog.45share.com/ruanjian/44.html 
 
 # 汉化成功
 > 菜单界面
